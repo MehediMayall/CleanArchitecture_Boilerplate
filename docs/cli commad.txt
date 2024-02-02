@@ -1,0 +1,7 @@
+# Project creation
+    dotnet new webapi --name CleanArch.API
+    dotnet new classlib --name CleanArch.Infrastructure
+    dotnet new classlib --name CleanArch.Application
+    dotnet new classlib --name CleanArch.Domain
+
+
